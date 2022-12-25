@@ -46,7 +46,7 @@ GET /api/v1/titles/{title_id}/reviews/{review_id}/comments/
   https://www.docker.com/
 
 # Склонирйте репозитарий
-  git clone SSH-адрес_вашего_форка
+  https://github.com/Petro2561/infra_sp2
 
 ## Создайте и заполните по образцу .env-файл
   DB_ENGINE=<...>
